@@ -12,10 +12,10 @@ import aws from './tech/aws.png'
 import docker from "./tech/docker.png";
 import ansible from "./tech/ansible.png";
 import git from "./tech/git.png";
-import terraformImage from './tech/Terraform.png';  //this is add by awais
+//import terraformImage from './tech/Terraform.png';  //this is add by awais
 
 import linux from "./tech/linux.png";
-import Terraform from "./tech/Terraform.png";
+import Terraform from "./tech/terraform.png";
 import jenkins from "./tech/jenkins.png";
  
 
