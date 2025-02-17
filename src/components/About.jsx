@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-5xl leading-[30px]'
       >
-       I am a seasoned DevOps engineer with a strong 5-year background of Infrastructure in which 2 
+       I am a seasoned DevOps engineer with a strong 5-year background of Infrastructure in which 3 
 year as DevOps Engineer, actively seeking a challenging role where I can apply my expertise in
 automation, CI/CD, cloud infrastructure. My dedication is centered around optimizing
 workflows, implementing scalable solutions, and cultivating operational efficiency.
