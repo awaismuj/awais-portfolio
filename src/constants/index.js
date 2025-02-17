@@ -66,7 +66,7 @@ const experiences = [
     company_name: "Jameel Akhtar Projects Oman",
     icon: "shopify",
     iconBg: "#383E56",
-    date: "June 2020 - Continue",
+    date: "June 2024 - Continue",
     points: [
       "Proficient in virtualization, VM configurations, and hypervisors for scalable computing environments.",
       "Experienced with AWS services (EC2, S3, RDS, Lambda, CloudFormation) for cloud infrastructure management.",
